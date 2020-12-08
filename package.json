@@ -1,0 +1,23 @@
+{
+  "name": "vpn-survey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupendrareddy8/taking-survey.git"
+  },
+  "author": "rupendra",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.28",
+    "mongoose-auto-increment": "^5.0.1",
+    "pug": "^3.0.0"
+  }
+}
